@@ -3,5 +3,5 @@ int main() {
 std::cout <<"hello, world! Good morning!";
 int n;
 std::cin >>n;
-std::cout<<n;
+std::cout<<n+7;
 }
